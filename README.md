@@ -12,7 +12,8 @@ Generative Adversarial Networks (GANs) are a class of machine learning framework
 <img width="517" alt="Screenshot 2024-08-13 at 7 30 40 PM" src="https://github.com/user-attachments/assets/a82e720b-bc2b-41e8-b03d-686a4103b100">
 
 2. End of the training
-<img width="517" alt="Screenshot 2024-08-13 at 7 31 17 PM" src="https://github.com/user-attachments/assets/682e5d03-d7b6-4a04-ae92-fb45747bdd58">
+<img width="517" alt="Screenshot 2024-08-15 at 11 23 50 AM" src="https://github.com/user-attachments/assets/6ff6351b-fc6b-4187-beb9-2b1833015071">
+
 
 
 ## Components
